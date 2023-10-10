@@ -1,0 +1,21 @@
+/* Header.module.css */
+
+/* Estilos para o contêiner do cabeçalho */
+.DivHeader {
+    display: flex; /* Use flex para alinhar a imagem e os parágrafos na mesma linha */
+    align-items: center; /* Alinhe verticalmente no centro */
+    background-color: #FFFFFF;
+    padding: 7px;
+}
+
+/* Estilos para a navegação */
+nav {
+    display: flex;
+    justify-content: end;
+}
+
+/* Estilos para os links do menu */
+p {
+    color: #66AA95;
+    padding: 3px;
+}

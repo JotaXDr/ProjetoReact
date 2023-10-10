@@ -1,0 +1,30 @@
+.div {
+    display: flex;
+    background-color: #E5FFF7;
+    padding: 50px;
+    align-items: center;
+}
+
+
+h1 {
+    font-size: 50px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+h2 {
+    font-size: 30px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+button {
+    border-radius: 49px;
+    padding: 10px 20px;
+    background-color: #DE9B9B;
+    margin-right: 20px;
+}
+
+img {
+    max-width: 100%;
+}
